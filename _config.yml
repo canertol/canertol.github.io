@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -37,10 +37,10 @@ projects:
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
-  # medium: your_username
+   medium: canertol
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+   twitter: canertol
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
