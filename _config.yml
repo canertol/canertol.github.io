@@ -37,7 +37,7 @@ social_media:
   # keybase: your_username
    linkedin: canertol
   # mastodon: your_username
-   medium: canertol
+   #medium: canertol
   # stackoverflow: your_user_id
   # telegram: your_username
    twitter: canertol
@@ -48,7 +48,7 @@ social_media:
 
 topics:
   - name: CV
-    web_url: 
+    web_url: https://canertol.github.io/2019/09/28/cv
     image_url: https://www.freeiconspng.com/uploads/resume-icon-png-15.png
 
   - name: Publications
