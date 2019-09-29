@@ -48,7 +48,7 @@ social_media:
 
 topics:
   - name: CV
-    web_url: http://localhost:4000/2019/09/28/cv/
+    web_url: http://canertol.github.io/2019/09/28/cv/
     image_url: https://www.freeiconspng.com/uploads/resume-icon-png-15.png
 
   - name: Publications
