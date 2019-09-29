@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-published: false
+published: trure
 ---
 
 **Hello world**, this is my first Jekyll blog post.
