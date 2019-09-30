@@ -54,6 +54,6 @@ topics:
   - name: Publications
     image_url: https://raw.githubusercontent.com/canertol/canertol.github.io/master/conferene_icon.png
 
-  - name: Blog
-    web_url: 
-    image_url: 
+  #- name: Blog
+  #  web_url: 
+  #  image_url: 
