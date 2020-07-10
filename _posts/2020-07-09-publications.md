@@ -6,5 +6,6 @@
    - Laia Amorós, Syed Mahbub Hafiz, Keewoo Lee, **M. Caner Tol**
 ## 2019  
 * Undermining user privacy on mobile devices using AI [[PDF](https://arxiv.org/pdf/1811.11218.pdf)][[BIB](https://raw.githubusercontent.com/canertol/canertol.github.io/master/papers/acm_3321705.3329804.bib)]
-   - Berk Gulmezoglu, Andreas Zankl, **M. Caner Tol**, Saad Islam, Thomas Eisenbarth, Berk Sunar
+  
+  - Berk Gulmezoglu, Andreas Zankl, **M. Caner Tol**, Saad Islam, Thomas Eisenbarth, Berk Sunar
    - Asia CCS '19: Proceedings of the 2019 ACM Asia Conference on Computer and Communications Security
