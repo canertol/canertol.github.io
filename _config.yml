@@ -48,8 +48,8 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CV
-    web_url: http://canertol.github.io/2019/09/28/cv/
+  - name: Résumé
+    web_url: http://canertol.github.io/2020/10/16/resume/
     image_url: https://www.freeiconspng.com/uploads/resume-icon-png-15.png
 
   - name: Publications
