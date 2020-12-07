@@ -1,5 +1,5 @@
 ## 2020
-   * FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings [[PDF](https://arxiv.org/pdf/2006.14147.pdf)][[CITE](https://canertol.github.io/bibs/tol2020fastspec.bib)]
+* FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings [[PDF](https://arxiv.org/pdf/2006.14147.pdf)][[CITE](https://canertol.github.io/bibs/tol2020fastspec.bib)]
    - **M. Caner Tol**, Koray Yurtseven, Berk Gulmezoglu, Berk Sunar
    
 * Gimme That Model!: A Trusted ML Model Trading Protocol [[PDF](https://arxiv.org/pdf/2003.00610.pdf)][[CITE](https://canertol.github.io/bibs/amorós2020gimme.bib)]
