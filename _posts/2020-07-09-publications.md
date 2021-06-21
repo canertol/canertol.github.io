@@ -1,3 +1,7 @@
+## 2021
+* Practical Backdoor Injection Attack on Deep Learning Models via Constrained Optimization (Under Review)
+   - **M. Caner Tol**, Saad Islam, Berk Sunar, Ziming Zhang
+
 ## 2020
 * FastSpec: Scalable Generation and Detection of Spectre Gadgets Using Neural Embeddings [[PDF](https://arxiv.org/pdf/2006.14147.pdf)][[CITE](https://canertol.github.io/bibs/tol2020fastspec.bib)]
    - **M. Caner Tol**, Berk Gulmezoglu, Koray Yurtseven, Berk Sunar
