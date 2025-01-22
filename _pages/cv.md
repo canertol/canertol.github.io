@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: Caner_Tol_Resume.pdf
+permalink: /assets/pdf/Caner_Tol_Resume.pdf
 title: cv
 nav: true
 nav_order: 5
