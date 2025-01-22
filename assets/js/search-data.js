@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Caner_Tol_Resume.pdf";
+            window.location.href = "/assets/pdf/Caner_Tol_Resume.pdf";
           },
         },{id: "post-a-post-with-image-galleries",
       
