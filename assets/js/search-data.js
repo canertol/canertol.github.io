@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("canertol.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/canertol.com", "_blank");
         },
       },{
         id: 'social-email',
