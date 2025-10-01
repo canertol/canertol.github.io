@@ -24,7 +24,7 @@ My research interests include:
 * Microarchitectural security
 * Side-channel and Fault Injection attacks
 * Attacks on machine learning models and other critical software
-* Automated detection and patching of $\mu$arch vulnerabilities using AI
+* Automated detection and patching of microarchitectural vulnerabilities using AI
 
 Outside of research, I enjoy practicing [Aikido](https://en.wikipedia.org/wiki/Aikido), scuba diving, sailing, and tango.
 
