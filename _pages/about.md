@@ -17,13 +17,14 @@ social: true # includes social icons at the bottom of the page
 
 Hello!👋
 
-I am a recent Ph.D. graduate from [Vernam Lab](https://vernamlab.org/), [WPI](https://wpi.edu/), advised by [Berk Sunar](https://sunar.org/).
+I received my M.S. and Ph.D. on Electrical and Computer Engineering from [Worcester Polytechnic Institute (WPI)](https://wpi.edu/), where I was a member of the [Vernam Lab](https://vernamlab.org/) under the supervision of [Prof. Berk Sunar](https://sunar.org/). I earned my B.S. on Electrical and Electronics Engineering from [Orta Doğu Teknik Üniversitesi (ODTÜ)](https://www.metu.edu.tr/en).
 
-My current research interests are
- - Microarchitectural (_μarch_) security
- - Side-channel and Fault Injection attacks
- - Attacks on ML models and other critical software
- - Automated detection and patching of _μarch_ vulnerabilities using AI
+My research interests include:
 
-Outside of work, I do [Aikido](https://en.wikipedia.org/wiki/Aikido), scuba diving, sailing, tango...
+* Microarchitectural ($\mu$arch) security
+* Side-channel and Fault Injection attacks
+* Attacks on machine learning models and other critical software
+* Automated detection and patching of $\mu$arch vulnerabilities using AI
+
+Outside of research, I enjoy practicing [Aikido](https://en.wikipedia.org/wiki/Aikido), scuba diving, sailing, and tango.
 
