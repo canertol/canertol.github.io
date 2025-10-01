@@ -21,7 +21,7 @@ I received my M.S. and Ph.D. on Electrical and Computer Engineering from [Worces
 
 My research interests include:
 
-* Microarchitectural ($\mu$arch) security
+* Microarchitectural security
 * Side-channel and Fault Injection attacks
 * Attacks on machine learning models and other critical software
 * Automated detection and patching of $\mu$arch vulnerabilities using AI
